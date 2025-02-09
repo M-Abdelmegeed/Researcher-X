@@ -128,6 +128,7 @@ def handle_follow_up(state: ResearchState) -> ResearchState:
     follow_up_response = response_chain.invoke({"follow_up_query": follow_up_query, "chat_summary": chat_summary})
 
     state["follow_up_response"] = follow_up_response
+    state["response"] = state["follow_up_response"]
     return state
 
 def decide_query_type(state):

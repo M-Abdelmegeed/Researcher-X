@@ -123,9 +123,3 @@ That's it! You are ready to use Researcher-X for your research needs.
 
 - Average Total Resarch Time -> 45 seconds
 - Average Response Time to Normal or Follow-up Queries -> 2-5 seconds
-
----
-
-## Video Demo
-
-https://drive.google.com/file/d/1fqiCQ5IxLiEaqDoTTL3u4Clt_ozHLMLP/view?usp=sharing
